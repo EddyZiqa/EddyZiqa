@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Eddy
 
-<!--
-**EddyZiqa/EddyZiqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon GitHub ! Je suis un étudiant en développement Web à l'AFPA.
 
-Here are some ideas to get you started:
+## ✨ À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Formation : Développpeur Web et Web Mobile
+- 🌱 En ce moment, j’apprends : PHP-MVC puis Docker
+- 💡 Centres d'intérêt : Jeux vidéo, E-Sport
+
+## 🛠️ Compétences & Logiciels
+
+Voici quelques outils et technologies avec lesquels j’ai travaillé :
+
+### 🔧 Langages & Frameworks
+- JavaScript
+- jQuery
+- Angular
+- Bootstrap
+- HTML / CSS / Sass
+- React
+- PHP
+
+### 🖥️ Logiciels & Environnements
+- PHPMyAdmin
+- Visual Studio Code
+- Git / GitHub
+- Docker / Docker Compose
+- MySQL
+  
+---
+
+Merci de visiter mon profil ! 🚀
