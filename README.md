@@ -5,7 +5,6 @@ Bienvenue sur mon GitHub ! Je suis un étudiant en développement Web à l'AFPA.
 ## ✨ À propos de moi
 
 - 🎓 Formation : Développpeur Web et Web Mobile
-- 🌱 En ce moment, j’apprends : PHP-MVC puis Docker
 - 💡 Centres d'intérêt : Jeux vidéo, E-Sport
 
 ## 🛠️ Compétences & Logiciels
