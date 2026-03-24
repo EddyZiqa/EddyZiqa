@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Eddy
 
-Bienvenue sur mon GitHub ! Je suis un étudiant en développement Web à l'AFPA.
+Bienvenue sur mon GitHub ! Je suis un étudiant en Concepteur Développeur d'Applications à l'AFPA.
 
 ## ✨ À propos de moi
 
