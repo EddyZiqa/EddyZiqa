@@ -4,7 +4,7 @@ Bienvenue sur mon GitHub ! Je suis un étudiant en Concepteur Développeur d'App
 
 ## ✨ À propos de moi
 
-- 🎓 Formation : Développpeur Web et Web Mobile
+- 🎓 Formation : Concepteur Développeur d'Applications
 - 💡 Centres d'intérêt : Jeux vidéo, E-Sport
 
 ## 🛠️ Compétences & Logiciels
